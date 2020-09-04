@@ -63,10 +63,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot één](images\screenshots\capture.png)
-![screenshot twee](images\screenshots\capture2.png)
-![screenshot drie](images\screenshots\capture3.png)
-![screenshot vier](images\screenshots\capture4.png)
+![screenshot één](images\screenshots\capture.PNG)
+![screenshot twee](images\screenshots\capture2.PNG)
+![screenshot drie](images\screenshots\capture3.PNG)
+![screenshot vier](images\screenshots\capture4.PNG)
 
 **Breakdown-schets(en):**
 
