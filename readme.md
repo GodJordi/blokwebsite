@@ -69,4 +69,4 @@
 
 **Breakdown-schets:**
 
-![-voorlopige breakdownschets-](images/screenshots/breakdown.PNG)
+![voorlopige breakdownschets](images/screenshots/breakdown.png)
