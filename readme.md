@@ -1,7 +1,6 @@
 # Procesverslag
 **Auteur:** Jordi Valies
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
 
 ## Bronnenlijst
@@ -55,19 +54,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** Ik ben er niet super goed in, na lang prutten kom ik er meestal wel uit en stiekem vind ik het best wel leuk. Daarom moet ik kiezen voor de rode pieste.
+**Mijn startniveau:** Ik ben niet perfect, na lang prutten kom ik er meestal wel uit en stiekem vind ik het best wel leuk. Daarom moet ik kiezen voor de rode pieste.
 
-**Je focus:** De website die ik kies is super mooi, veel leastige CSS en JavaScript animaties. Ik kies daarom voor de bling. Responsivness is mooi meegenoemen.
+**Mijn focus:** De website die ik kies is super mooi, veel leastige CSS en JavaScript animaties. Ik kies daarom voor de bling. Responsivness is mooi meegenoemen.
 
-**Je opdracht:** https://www.magicleap.com/
+**Mijn opdracht:** https://www.magicleap.com/
 
-**Screenshot(s):**
+**Screenshots:**
 
 ![screenshot één](images/screenshots/capture.PNG)
 ![screenshot twee](images/screenshots/capture2.PNG)
 ![screenshot drie](images/screenshots/capture3.PNG)
 ![screenshot vier](images/screenshots/capture4.PNG)
 
-**Breakdown-schets(en):**
+**Breakdown-schets:**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![-voorlopige breakdownschets-](images/screenshots/breakdown.PNG)
